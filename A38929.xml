@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact list of the Lords spiritual and temporal who fare in the pretended Parliament at Dublin in the kingdom of Ireland on the 7th of May, 1689, and there continued until the 18th of July following, and then prorogued until the 12th of November next following : also a list of the knights, citizens and burgesses of the House of Commons in order as they were returned : together with a catalogue of the titles of all acts passed in the said pretended session, and remarks upon them, and the preamble to the act of repeal of the acts of settlement, as it passed in the House of Commons : and the several reasons addressed to the late King against passing the act, intituled An act for repealing the acts of settlement and explanation, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38929</idno><idno type="EEBO-CITATION">11996367</idno>
+  <idno type="VID">52109</idno>
+  <idno type="EEBO-PROQUEST">2240892679</idno>
+  
+            <idno type="STC">Wing E3657</idno>
+            <idno type="STC">ESTC R31468</idno>
+            <idno type="OCLC">11996367</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52109)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1009:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact list of the Lords spiritual and temporal who fare in the pretended Parliament at Dublin in the kingdom of Ireland on the 7th of May, 1689, and there continued until the 18th of July following, and then prorogued until the 12th of November next following : also a list of the knights, citizens and burgesses of the House of Commons in order as they were returned : together with a catalogue of the titles of all acts passed in the said pretended session, and remarks upon them, and the preamble to the act of repeal of the acts of settlement, as it passed in the House of Commons : and the several reasons addressed to the late King against passing the act, intituled An act for repealing the acts of settlement and explanation, &amp;c.</title>
+               </titleStmt>
+               <extent>[4], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.B. and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  1688-1689.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52109:1"/>
+            <p>An Exact LIST Of the Lords SPIRITUAL &amp; TEMPORAL, Who sate in the PRETENDED PARLIAMENT AT DUBLIN In the Kingdom of <hi>IRELAND;</hi> On the 7th of <hi>May,</hi> 1689. and there continued until the 18th of <hi>July</hi> following, and then Prorogued until the 12th of <hi>November</hi> next following.</p>
+            <p>ALSO A LIST of the <hi>Knights, Citizens</hi> and <hi>Burgesses</hi> of the House of COMMONS, in order as they were returned.</p>
+            <p>TOGETHER With a <hi>Catalogue</hi> of the <hi>Titles</hi> of all <hi>Acts</hi> passed in the said <hi>Pretended Session,</hi> and Remarks upon them, and the Preamble to the Act of Repeal of the Acts of Settlement, as it passed in the House of <hi>Commons.</hi>
+            </p>
+            <p>And the several Reasons Addressed to the late King against passing the Act.</p>
+            <p>INTITULED An Act for Repealing the Acts of Settlement and Explanation, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>November</hi> the 13th, 1689.</date> And Entered according to Order.</dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T.B.</hi> and are to be Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall.</hi> 1689.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:52109:2"/>
+            <pb facs="tcp:52109:2"/>
+            <head>TO THE READER.</head>
+            <p>IT is a common Proverb, <hi>Happy are they, whom the Harms of other Men make wary.</hi> How far some People, altogether infatuated with the late Leaven of Passive Obedience, may be Infidels, in reference to this sententious Proverb, these Sheets are made publick to the World, on purpose to discover.</p>
+            <p>By the Sufferings of <hi>Ireland,</hi> at this time under the Op<g ref="char:EOLhyphen"/>pressions of the late King <hi>James,</hi> is plainly set forth, the Miseries and Calamities which he had intended to have brought upon <hi>England</hi> and <hi>Scotland,</hi> had it not been for the Glorious Deliverance by King <hi>William;</hi> for <hi>Ireland</hi> is a perfect Mirror, representing the Deformities of a pretended Government, under the Management of <hi>Rome</hi> and <hi>France;</hi> where we find Popery and Tyranny strenuously endeavouring to set up, what <hi>England</hi> and <hi>Scotland</hi> are no less zealously la<g ref="char:EOLhyphen"/>bouring to pull down.</p>
+            <p>Here we find a Parliament sitting to secure the Reformed Worship of the Omnipotent, and to recover the ancient Laws and Liberties of the People from the Damages so lately sus<g ref="char:EOLhyphen"/>tained through the Violations of illegal Tyranny.</p>
+            <p>In <hi>Ireland</hi> we find a Mock-Parliament convened, to ex<g ref="char:EOLhyphen"/>tirpate the very Name of the Protestant Religion, and to rend that lovely Portion of the English Dominion from the British Scepter, by exacting Laws to exterminate the whole Race of the Protestant Proprietors; which as they are the publick Acts of a numerous Convention, under the Influence of a Popish Prince, and consequently too notorious to be deni<g ref="char:EOLhyphen"/>ed;
+<pb facs="tcp:52109:3"/> they are here Catalogued with their Authors, and trans<g ref="char:EOLhyphen"/>mitted to p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>blick view, and may serve to shew how fondly the Biggots of this Nation, bow their Ears to the Delusions of those, who would make them believe they ever can enjoy an Hour of Happiness under a Government so diametrically opposite to the well being of Mankind. I shall therefore say no more, but make it my hearty Wish, that as God hath been merciful to them, in delivering them from those Calamities which o<g ref="char:EOLhyphen"/>thers feel, they may likewise learn by reading these few Sheets, to be so merciful to themselves, as not to seek their own De<g ref="char:EOLhyphen"/>struction.</p>
+            <p>The following List of Lords are of such as sate, and that of the Commons in the same Order as they were returned. Those wanting are for <hi>London-Derry, Enniskilling,</hi> and such Places as were in the Protestants Hands.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:52109:3"/>
+            <head>The Names of the Lords and Com<g ref="char:EOLhyphen"/>mons of the Pretended Parliament of <hi>Ireland,</hi> Sitting at <hi>Dublin</hi> the Se<g ref="char:EOLhyphen"/>venth of <hi>May,</hi> 1689. and continued Sitting till the Eighteenth of <hi>July,</hi> and then prorogued until the Twelfth of <hi>November.</hi>
+            </head>
+            <list>
+               <head>The LORDS.</head>
+               <item>SIR <hi>Alexander Fitton,</hi> Lord Ba<g ref="char:EOLhyphen"/>ron of <hi>Gosworth,</hi> Lord Chan<g ref="char:EOLhyphen"/>cellor.</item>
+               <item>Earl of <hi>Westmeath,</hi>
+               </item>
+               <item>Earl of <hi>Barrymore.</hi>
+               </item>
+               <item>Earl of <hi>Clancarty.</hi>
+               </item>
+               <item>Earl of <hi>Tyrone.</hi>
+               </item>
+               <item>Earl of <hi>Longford.</hi>
+               </item>
+               <item>Earl of <hi>Granard.</hi>
+               </item>
+               <item>Earl of <hi>Limericke.</hi>
+               </item>
+               <item>Lord Viscount <hi>Glanmalira.</hi>
+               </item>
+               <item>Viscount <hi>Killmallock.</hi>
+               </item>
+               <item>Viscount <hi>Iv<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gh.</hi>
+               </item>
+               <item>Viscount <hi>Mountgarret.</hi>
+               </item>
+               <item>Viscount <hi>Dillon.</hi>
+               </item>
+               <item>Viscount <hi>Russe.</hi>
+               </item>
+               <item>Viscount <hi>Gallway.</hi>
+               </item>
+               <item>Sir <hi>Valentine Brown,</hi> Viscount <hi>Ken<g ref="char:EOLhyphen"/>mare,</hi> lately made</item>
+               <item>
+                  <hi>Justin Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Cartby,</hi> Viscount <hi>Mont Cashel,</hi> lately made.</item>
+               <item>Lord Bishop of <hi>Meath.</hi>
+               </item>
+               <item>Bishop of <hi>Ossory.</hi>
+               </item>
+               <item>Bishop of <hi>Cork.</hi>
+               </item>
+               <item>Bishop of <hi>Limericke.</hi>
+               </item>
+               <item>Lord Baron of <hi>Atheuret.</hi>
+               </item>
+               <item>Baron of <hi>Kinsale.</hi>
+               </item>
+               <item>Baron of <hi>Eniskillen.</hi>
+               </item>
+               <item>Baron of <hi>Seraba<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </item>
+               <item>Baron of <hi>Castleconnell.</hi>
+               </item>
+               <item>Baron of <hi>Brittas.</hi>
+               </item>
+               <item>Baron of <hi>Dunb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </item>
+               <item>Baron of <hi>Cahirr.</hi>
+               </item>
+               <item>Baron of <hi>Howth.</hi>
+               </item>
+               <item>Baron of <hi>Dunsanny.</hi>
+               </item>
+               <item>Baron of upper <hi>Ossory.</hi>
+               </item>
+               <item>Lord Baron of <hi>Slane.</hi>
+               </item>
+               <item>Chief Justice <hi>Nugent,</hi> Baron of <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>verstown,</hi> lately made.</item>
+               <item>
+                  <hi>John Bourk,</hi> Baron of <hi>Bophin,</hi> lately made.</item>
+               <item>Baron of <hi>Trinlestown.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="2" facs="tcp:52109:4"/>
+               <head>The COMMONS.</head>
+               <item>County of <hi>Catherlogh.</hi>
+                  <list>
+                     <item>
+                        <hi>Dudly Bagnal,</hi> Esq;</item>
+                     <item>
+                        <hi>Henry Luttrel,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Catherlogh.</hi>
+                  <list>
+                     <item>
+                        <hi>Marcus Baggot,</hi> Esq;</item>
+                     <item>
+                        <hi>John Warren,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Old Leighlin.</hi>
+                  <list>
+                     <item>
+                        <hi>Darby Long,</hi> Esq;</item>
+                     <item>
+                        <hi>Daniel Doran.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>County of <hi>Gullway.</hi>
+                  <list>
+                     <item>Sir <hi>Ʋlick Bourk,</hi> Bar.</item>
+                     <item>Sir <hi>Walter Blake,</hi> Bar.</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Athemy.</hi>
+                  <list>
+                     <item>
+                        <hi>James Talbot,</hi> of <hi>Mount<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Talbot,</hi> Esq;</item>
+                     <item>
+                        <hi>Charles Daly</hi> of <hi>Dunsundal,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Boroug of <hi>Tuam.</hi>
+                  <list>
+                     <item>
+                        <hi>James Lally,</hi> of <hi>Tullenedally.</hi>
+                     </item>
+                     <item>
+                        <hi>William Bourk,</hi> of <hi>Carrowstila.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>County of <hi>Kilkenny.</hi>
+                  <list>
+                     <item>
+                        <hi>James Grace,</hi> of <hi>Courstowne,</hi> Esq;</item>
+                     <item>
+                        <hi>Robert Walsh,</hi> of <hi>Cloneneassy,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Callan.</hi>
+                  <list>
+                     <item>
+                        <hi>Walter Buttler,</hi> Esq;</item>
+                     <item>
+                        <hi>Thady Meagher,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Thomastown.</hi>
+                  <list>
+                     <item>
+                        <hi>Robert Grace</hi> the Elder, Esq;</item>
+                     <item>
+                        <hi>Robert Grace</hi> the Younger, Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Gowran.</hi>
+                  <list>
+                     <item>
+                        <hi>Richard Butler,</hi> Esq;</item>
+                     <item>
+                        <hi>Walter Kelly,</hi> Doctor of Physick.</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Inistioge.</hi>
+                  <list>
+                     <item>
+                        <hi>Edward Fitz Gerrald,</hi> Esq;</item>
+                     <item>
+                        <hi>James Fitz Gerrald,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Knocktopher.</hi>
+                  <list>
+                     <item>
+                        <hi>Harvey Morres,</hi> Esq;</item>
+                     <item>
+                        <hi>Henry M<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>gh,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>City of <hi>Kilkinny.</hi>
+                  <list>
+                     <item>
+                        <hi>John Rooth,</hi> Mayor of that City.</item>
+                     <item>
+                        <hi>James Bryan,</hi> Alderman</item>
+                  </list>
+               </item>
+               <item>County of <hi>Cork</hi>
+                  <list>
+                     <item>
+                        <hi>Justin Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Car<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>y,</hi> Esq;</item>
+                     <item>Sir <hi>Richard Nag<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>,</hi> Knight</item>
+                  </list>
+               </item>
+               <pb n="3" facs="tcp:52109:4"/>
+               <item>Borough of <hi>Yonghall.</hi>
+                  <list>
+                     <item>
+                        <hi>Thomas Vniack,</hi> Alderman.</item>
+                     <item>
+                        <hi>Edward Gough,</hi> Alderman.</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Kinsale.</hi>
+                  <list>
+                     <item>
+                        <hi>Andrew Murrogh,</hi> Esq;,</item>
+                     <item>
+                        <hi>Miles de Coursey,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Baltimore.</hi>
+                  <list>
+                     <item>
+                        <hi>Daniel O Donovan,</hi> Esq;</item>
+                     <item>
+                        <hi>Jeremy Donovan,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Bandenbridge.</hi>
+                  <list>
+                     <item>
+                        <hi>Charels Mac. Carthy</hi> of <hi>Ballea,</hi> Esq;</item>
+                     <item>
+                        <hi>Daniel Mac. Carthy Reagh,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Cloghnekelty</hi>
+                  <list>
+                     <item>Lieutenant Collonel <hi>Owen Mac. Car<g ref="char:EOLhyphen"/>thy,</hi> Esq;</item>
+                     <item>
+                        <hi>Daniel Mac. Fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Mac Carthy,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Middletown.</hi>
+                  <list>
+                     <item>
+                        <hi>Dermod Long,</hi> Esq;</item>
+                     <item>
+                        <hi>John Long,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Mayallow.</hi>
+                  <list>
+                     <item>
+                        <hi>John Barret</hi> of <hi>Castlemore,</hi> Esq;</item>
+                     <item>
+                        <hi>David Nagle</hi> of <hi>Carragowne,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Mannor and Borough of <hi>Roth Cormuck.</hi>
+                  <list>
+                     <item>
+                        <hi>James Barry,</hi> Esq;</item>
+                     <item>
+                        <hi>Edward Powel,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Mannor of <hi>Doneraile.</hi>
+                  <list>
+                     <item>
+                        <hi>Daniel O Donovane,</hi> Esq;</item>
+                     <item>
+                        <hi>John Baggot,</hi> Junior, of <hi>Bagotstown,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Charl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vile.</hi>
+                  <list>
+                     <item>
+                        <hi>John Baggot</hi> Senior, of <hi>Baggotstown,</hi> Esq;</item>
+                     <item>
+                        <hi>John Power</hi> of <hi>Killballane,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>County of <hi>Tipperary.</hi>
+                  <list>
+                     <item>
+                        <hi>Nicholas Purcel</hi> of <hi>Loghmore,</hi> Esq;</item>
+                     <item>
+                        <hi>James Butler</hi> of <hi>Granigebegg.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>City of <hi>Cashell.</hi>
+                  <list>
+                     <item>
+                        <hi>Dennis Kearny,</hi> Alderman.</item>
+                     <item>
+                        <hi>James Hackett,</hi> Alderman.</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omne<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+                  <list>
+                     <item>
+                        <hi>Nicholas White,</hi> Alderman.</item>
+                     <item>
+                        <hi>John Bray,</hi> Alderman.</item>
+                  </list>
+               </item>
+               <pb n="4" facs="tcp:52109:5"/>
+               <item>Borough of <hi>Fethard.</hi>
+                  <list>
+                     <item>Sir <hi>John Everard,</hi> Bar.</item>
+                     <item>
+                        <hi>James Tobin</hi> of <hi>Fethard,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>City of <hi>Waterford.</hi>
+                  <list>
+                     <item>
+                        <hi>John Porter,</hi> Esq;</item>
+                     <item>
+                        <hi>Nicholas Fitz. Gerrald,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>County of <hi>Kerry.</hi>
+                  <list>
+                     <item>
+                        <hi>Nicholas Brown,</hi> Esq;</item>
+                     <item>Sir <hi>Thomas Crossby,</hi> Knight.</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Trayley.</hi>
+                  <list>
+                     <item>
+                        <hi>Maurice Hussey</hi> of <hi>Kerrys,</hi> Esq;</item>
+                     <item>
+                        <hi>John Brown</hi> of <hi>Ardagh,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Dinglescouch.</hi>
+                  <list>
+                     <item>
+                        <hi>Edward Rice, Fits James</hi> of <hi>Balline<g ref="char:EOLhyphen"/>lig,</hi> in the County of <hi>Limerick.</hi>
+                     </item>
+                     <item>
+                        <hi>John Hussey</hi> of <hi>Culmullin,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Ardfert.</hi>
+                  <list>
+                     <item>Collonel <hi>Roger Mac. Elligor.</hi>
+                     </item>
+                     <item>
+                        <hi>Cornelius Mac. Gillicuddy.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>City of <hi>Lymerick.</hi>
+                  <list>
+                     <item>
+                        <hi>Nicholas Arthur,</hi> Alderman.</item>
+                     <item>
+                        <hi>Thomas Harrold,</hi> Alderman.</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Roscommon.</hi>
+                  <list>
+                     <item>
+                        <hi>John Dillon,</hi> Esq;</item>
+                     <item>
+                        <hi>John Kelley,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Boyle.</hi>
+                  <list>
+                     <item>Captain <hi>John King.</hi>
+                     </item>
+                     <item>
+                        <hi>Terrence Mac. Dermot,</hi> Alderman.</item>
+                  </list>
+               </item>
+               <item>County of <hi>Meath.</hi>
+                  <list>
+                     <item>Sir <hi>William Talbott,</hi> Bar.</item>
+                     <item>Sir <hi>Patrick Barnwall,</hi> Bar.</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Rato<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th.</hi>
+                  <list>
+                     <item>
+                        <hi>John Hussey,</hi> Esq;</item>
+                     <item>
+                        <hi>James Fitz. Gerrald,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Trym.</hi>
+                  <list>
+                     <item>Captain <hi>Nicholas Cusacke.</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Nangle,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Navan.</hi>
+                  <list>
+                     <item>
+                        <hi>Christopher Cusack</hi> of <hi>Corballis,</hi> Esq;</item>
+                     <item>
+                        <hi>Christopher Cusack</hi> of <hi>Ratholeran,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Kells.</hi>
+                  <list>
+                     <item>
+                        <hi>Patrick Everard,</hi> Esq;</item>
+                     <item>
+                        <hi>John Delamare,</hi> Esq;</item>
+                  </list>
+               </item>
+               <pb n="5" facs="tcp:52109:5"/>
+               <item>Borough of <hi>Athboy.</hi>
+                  <list>
+                     <item>
+                        <hi>John Trynder,</hi> Esq;</item>
+                     <item>
+                        <hi>Robert Longfield,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>City of <hi>Cork.</hi>
+                  <list>
+                     <item>Sir <hi>James Cotter,</hi> Knight.</item>
+                     <item>
+                        <hi>John Galloway,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>County of <hi>Lymerick.</hi>
+                  <list>
+                     <item>Sir <hi>John Fitz Gerrald,</hi> Baronet.</item>
+                     <item>
+                        <hi>Gerrald Fitz Gerrald,</hi> Knight of the <hi>Glyn.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Killmallock.</hi>
+                  <list>
+                     <item>Sir <hi>William Harley,</hi> Baronet.</item>
+                     <item>
+                        <hi>Jahn Lacy,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Askeaton.</hi>
+                  <list>
+                     <item>
+                        <hi>John Bourke</hi> of <hi>Cahirmoyhill,</hi> Esq;</item>
+                     <item>
+                        <hi>Edward Rice,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>County of <hi>West-Meath.</hi>
+                  <list>
+                     <item>The Honourable Collonel <hi>William Nugent.</hi>
+                     </item>
+                     <item>The Honourable Collonel <hi>Henry Dillon.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Borough and Mannor of <hi>Mullengarr.</hi>
+                  <list>
+                     <item>
+                        <hi>Gerrald Dillon</hi> Esq; prime Serjeant.</item>
+                     <item>
+                        <hi>Edmund Nugent</hi> of <hi>Carlanstowne,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Athlone.</hi>
+                  <list>
+                     <item>
+                        <hi>Edmond Malone</hi> of <hi>Ballynahoune,</hi> Esq;</item>
+                     <item>
+                        <hi>Edmond Malone</hi> of <hi>Jurisperit,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Kellbeggan.</hi>
+                  <list>
+                     <item>
+                        <hi>Brian Geoghegan</hi> of <hi>Donor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</hi> Esq;</item>
+                     <item>
+                        <hi>Charles Geoghegan</hi> of <hi>Lyonane,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Queens</hi> County.
+<list>
+                     <item>Sir <hi>Patrick Trant</hi> Knight,</item>
+                     <item>
+                        <hi>Edmond Morres,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Marribrough.</hi>
+                  <list>
+                     <item>
+                        <hi>Pierce Bryan,</hi> Esq;</item>
+                     <item>
+                        <hi>Thady Fitz Patrick,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Ballynekill.</hi>
+                  <list>
+                     <item>Sir <hi>Gregory Byrne</hi> Baronet.</item>
+                     <item>
+                        <hi>Oliver Grace</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Galloway.</hi>
+                  <list>
+                     <item>
+                        <hi>Oliver Martine,</hi> Esq;</item>
+                     <item>
+                        <hi>John Kirwan,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>County of <hi>Cavan.</hi>
+                  <list>
+                     <item>
+                        <hi>Phillip Reyley</hi> of <hi>Aghnecrevy,</hi> Esq;</item>
+                     <item>
+                        <hi>John Reyley</hi> of <hi>Carirobuck,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Cavab.</hi>
+                  <list>
+                     <item>
+                        <hi>Phillip Oge</hi> O <hi>Reyly,</hi> Esq;</item>
+                     <item>
+                        <hi>Hugh Reyley</hi> of <hi>Lara</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Bellturbet.</hi>
+                  <list>
+                     <item>Sir <hi>Edward Tyrtel,</hi> Baronet.</item>
+                     <item>
+                        <hi>Phlilip Tuite</hi> of <hi>Newcastle,</hi> Esq;</item>
+                  </list>
+               </item>
+               <pb n="6" facs="tcp:52109:6"/>
+               <item>County of <hi>Waterford.</hi>
+                  <list>
+                     <item>
+                        <hi>John Power,</hi> Esq;</item>
+                     <item>
+                        <hi>Matthew Hore,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Dungarvan.</hi>
+                  <list>
+                     <item>
+                        <hi>John Hore,</hi> Esq;</item>
+                     <item>
+                        <hi>Martin Hore,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>County of <hi>Alig<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+                  <list>
+                     <item>
+                        <hi>Henry Crofton,</hi> Esq;</item>
+                     <item>
+                        <hi>Oliver OGara,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Sligo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+                  <list>
+                     <item>
+                        <hi>Terrence Mac D<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ogh,</hi> Esq;</item>
+                     <item>
+                        <hi>James French,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>County of <hi>Tyr<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</hi>
+                  <list>
+                     <item>Collonel <hi>Gourdon D Neal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</hi>
+                     </item>
+                     <item>
+                        <hi>Lewis Doe</hi> of <hi>Dung<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Dung<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>non.</hi>
+                  <list>
+                     <item>
+                        <hi>Arthur O Neale,</hi> Esq;</item>
+                     <item>
+                        <hi>Peter Dannelly</hi> of <hi>Dungannon.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Borough of <hi>
+                     <gap reason="illegible" resp="#murp" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>bane.</hi>
+                  <list>
+                     <item>
+                        <hi>Christopher N<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>g<gap reason="illegible" resp="#murp" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>,</hi> Esq;</item>
+                     <item>
+                        <hi>Daniel Donelly,</hi> Gent.</item>
+                  </list>
+               </item>
+               <item>County of <hi>Clare.</hi>
+                  <list>
+                     <item>
+                        <hi>Daniel O <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>,</hi> Esq;</item>
+                     <item>
+                        <hi>John Mac Nemarra</hi> of <hi>Cr<gap reason="illegible" resp="#keyers" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>gh,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+                  <list>
+                     <item>
+                        <hi>Florence Mac Nemarr a</hi> of <hi>D<gap reason="illegible" resp="#keyers" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>d,</hi> Esq;</item>
+                     <item>
+                        <hi>Theobald Butler</hi> of <hi>Sraghnagohoone,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>County of <hi>Leytrim.</hi>
+                  <list>
+                     <item>
+                        <hi>Edmond Reynells,</hi> Esq;</item>
+                     <item>
+                        <hi>Iriel Farrel,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>James-Town.</hi>
+                  <list>
+                     <item>
+                        <hi>Alexand<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> Mac Donnel,</hi> Esq;</item>
+                     <item>
+                        <hi>William Shanley,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>County of <hi>Ardmagh.</hi>
+                  <list>
+                     <item>
+                        <hi>Francis Stafford,</hi> Esq;</item>
+                     <item>
+                        <hi>Constantine O Neale,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>County of <hi>Antrim.</hi>
+                  <list>
+                     <item>
+                        <hi>Cormuck Oneale.</hi>
+                     </item>
+                     <item>
+                        <hi>Randall Mac Donnel.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Bellfast.</hi>
+                  <list>
+                     <item>
+                        <hi>Marcus Talbott.</hi>
+                     </item>
+                     <item>
+                        <hi>Daniel O'Neale.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>County of <hi>Wexford.</hi>
+                  <list>
+                     <item>
+                        <hi>Walter Butler</hi> of <hi>Monfin,</hi> Esq;</item>
+                     <item>
+                        <hi>Patrick Colclough</hi> of <hi>Mochury,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Wexford.</hi>
+                  <list>
+                     <item>
+                        <hi>William Talbot,</hi> Esq;</item>
+                     <item>
+                        <hi>Francis Ro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>th.</hi> Merchant.</item>
+                  </list>
+               </item>
+               <pb n="7" facs="tcp:52109:6"/>
+               <item>Borough of <hi>New Ross.</hi>
+                  <list>
+                     <item>
+                        <hi>Luke Dormer,</hi> Esq;</item>
+                     <item>
+                        <hi>Richard Butler,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Newburgh.</hi>
+                  <list>
+                     <item>
+                        <hi>Abraham Strange</hi> of <hi>Taberduffe,</hi> Esq;</item>
+                     <item>
+                        <hi>Richard Doyle</hi> of <hi>Kilorky.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Eniscorthy.</hi>
+                  <list>
+                     <item>
+                        <hi>James Devereux</hi> of <hi>Carigmenan,</hi> Esq;</item>
+                     <item>
+                        <hi>Arthur Waddington Portriffe.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Taghmon.</hi>
+                  <list>
+                     <item>
+                        <hi>George Hore</hi> of <hi>Polehore,</hi> Esq;</item>
+                     <item>
+                        <hi>Walter Hore</hi> of <hi>Harperstowne.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Bannow.</hi>
+                  <list>
+                     <item>
+                        <hi>Francis Plowden,</hi> Esq;</item>
+                     <item>Dr. <hi>Alexius Stafford.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Cloghmine.</hi>
+                  <list>
+                     <item>
+                        <hi>Edward Sherlock</hi> of the City of <hi>Dublin,</hi> Esq;</item>
+                     <item>
+                        <hi>Nicholas White</hi> of <hi>Rosse,</hi> Merchant.</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Fetherd.</hi>
+                  <list>
+                     <item>The Right Honourable Collonel <hi>James Porter.</hi>
+                     </item>
+                     <item>Captain <hi>Nicholas Stafford.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>County of <hi>Longford</hi>
+                  <list>
+                     <item>
+                        <hi>Roger Farrell,</hi> Esq;</item>
+                     <item>
+                        <hi>Robert Farell,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Lanesbrough.</hi>
+                  <list>
+                     <item>
+                        <hi>Oliver Fitz Gerrald,</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Farrell.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>County of <hi>Mayo.</hi>
+                  <list>
+                     <item>
+                        <hi>Gerrald Moore,</hi> Esq;</item>
+                     <item>
+                        <hi>Walter Bourke,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Castlebarr.</hi>
+                  <list>
+                     <item>
+                        <hi>John Bremingham Portriffe.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Bourke,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>County of <hi>Downe.</hi>
+                  <list>
+                     <item>
+                        <hi>Murtogh Mac Gennis</hi> of <hi>Green-Castle,</hi> Esq;</item>
+                     <item>
+                        <hi>Ever Mac Gennis</hi> of <hi>Castle-william,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Newry.</hi>
+                  <list>
+                     <item>
+                        <hi>Rowland White,</hi> Esq;</item>
+                     <item>
+                        <hi>Rowland Savage,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Killileagh</hi>
+                  <list>
+                     <item>
+                        <hi>Barnard Mac Gennis</hi> of <hi>Ballygorian<g ref="char:EOLhyphen"/>beg,</hi> Esq;</item>
+                     <item>
+                        <hi>Toole O' Neile</hi> of <hi>Drummekelly,</hi> Gent.</item>
+                  </list>
+               </item>
+               <pb n="8" facs="tcp:52109:7"/>
+               <item>County of <hi>Dublin.</hi>
+                  <list>
+                     <item>
+                        <hi>Simon Lutterel</hi> of <hi>Luttrellstowne,</hi> Esq;</item>
+                     <item>
+                        <hi>Patrick Sarsfield</hi> of <hi>L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>can,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Swords.</hi>
+                  <list>
+                     <item>
+                        <hi>Francis Barnwall</hi> of <hi>Woodscarke</hi> in the County of <hi>Meath,</hi> Esq;</item>
+                     <item>
+                        <hi>Robert Russel</hi> of <hi>Drynham,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>New Castle.</hi>
+                  <list>
+                     <item>
+                        <hi>Thomas Arthur</hi> of <hi>Colganstowne,</hi>
+                     </item>
+                     <item>
+                        <hi>John Talbot</hi> of <hi>Bellgard.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>City of <hi>Dublin.</hi>
+                  <list>
+                     <item>Sir <hi>Michael Creagh,</hi> Knight, Lord Mayor.</item>
+                     <item>
+                        <hi>Terence Dermot,</hi> Senior, Alderman.</item>
+                  </list>
+               </item>
+               <item>Colledge of <hi>Dublin.</hi>
+                  <list>
+                     <item>Sir <hi>John Meade,</hi> Knight.</item>
+                     <item>
+                        <hi>Joseph Coghlan,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>County of <hi>Wickloe.</hi>
+                  <list>
+                     <item>
+                        <hi>Richard Butler,</hi> Esq;</item>
+                     <item>
+                        <hi>William Talbot,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Cares-Fort.</hi>
+                  <list>
+                     <item>
+                        <hi>Hugh Byrone,</hi> Esq;</item>
+                     <item>
+                        <hi>Pierce Archbold,</hi> Esq; upon default of a Process of <hi>P.A. Polewheele,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Wickloe.</hi>
+                  <list>
+                     <item>
+                        <hi>Francis Toole,</hi> Esq;</item>
+                     <item>
+                        <hi>Thomas Byrne,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Blessington.</hi>
+                  <list>
+                     <item>
+                        <hi>James Eustace,</hi> Esq;</item>
+                     <item>
+                        <hi>Maurice Eustace,</hi> Gent.</item>
+                  </list>
+               </item>
+               <item>County of <hi>Kildare.</hi>
+                  <list>
+                     <item>
+                        <hi>John Wogan,</hi> Esq;</item>
+                     <item>
+                        <hi>George Aylmer,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Naa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+                  <list>
+                     <item>
+                        <hi>Walter</hi> Lord <hi>Dungan.</hi>
+                     </item>
+                     <item>
+                        <hi>Charles White,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Athy.</hi>
+                  <list>
+                     <item>
+                        <hi>William Fitz. Gerrald,</hi> Esq;</item>
+                     <item>
+                        <hi>William Archbold,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Harristowne.</hi>
+                  <list>
+                     <item>
+                        <hi>James Nihell,</hi> Esq;</item>
+                     <item>
+                        <hi>Edmond Fitz. Gerrald,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Kildare.</hi>
+                  <list>
+                     <item>
+                        <hi>Francis Leigh,</hi> Esq;</item>
+                     <item>
+                        <hi>Robert Porter,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Kings</hi> County.
+<list>
+                     <item>
+                        <hi>Hewer Oxburgh,</hi> Esq;</item>
+                     <item>
+                        <hi>Owen Carrol,</hi> Esq;</item>
+                  </list>
+               </item>
+               <pb n="9" facs="tcp:52109:7"/>
+               <item>Borough of <hi>Phillipstowne.</hi>
+                  <list>
+                     <item>
+                        <hi>John Cannor,</hi> Esq;</item>
+                     <item>
+                        <hi>Hower Oxburgh,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Bannagher.</hi>
+                  <list>
+                     <item>
+                        <hi>Terrence Coghlan,</hi> Esq;</item>
+                     <item>
+                        <hi>Taerence Coghlan,</hi> Gent.</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Drogheda.</hi>
+                  <list>
+                     <item>
+                        <hi>Henry Dowdal,</hi> Esq; Recorder.</item>
+                     <item>
+                        <hi>Christophor Peppard, Fitz. George,</hi> Al<g ref="char:EOLhyphen"/>derman.</item>
+                  </list>
+               </item>
+               <item>County of <hi>Lowth.</hi>
+                  <list>
+                     <item>
+                        <hi>Thomas Bellew,</hi> Esq;</item>
+                     <item>
+                        <hi>William Talbot,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Atherd<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e.</hi>
+                  <list>
+                     <item>
+                        <hi>Hugh Gernon,</hi> Esq;</item>
+                     <item>
+                        <hi>John Babe,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Dundalk.</hi>
+                  <list>
+                     <item>
+                        <hi>Robert Dermot,</hi> Esq;</item>
+                     <item>
+                        <hi>John Dowdgall,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Carlingford</hi>
+                  <list>
+                     <item>
+                        <hi>Christopher Peppard Fitz Ignatius,</hi> Esq;</item>
+                     <item>
+                        <hi>Bryan Dermot,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>County of <hi>Ros-Common.</hi>
+                  <list>
+                     <item>
+                        <hi>Charles Kelly,</hi> Esq;</item>
+                     <item>
+                        <hi>John Bourke,</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Fowre</hi> in Commitat. <hi>West-Meath.</hi>
+                  <list>
+                     <item>
+                        <hi>John Nugent</hi> of <hi>Donore,</hi> Esq;</item>
+                     <item>
+                        <hi>Christopher Nugent</hi> of <hi>Dardystowne.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Borough of <hi>Portarlington</hi> in <hi>Queens</hi> County.
+<list>
+                     <item>Sir <hi>Henry Bond,</hi> Baronet.</item>
+                     <item>Sir <hi>Thomas Hacket,</hi> Knight.</item>
+                  </list>
+               </item>
+               <item>Borough of St. <hi>Johnston</hi> in Commit. <hi>Longford.</hi>
+                  <list>
+                     <item>Sir <hi>William Ellis,</hi> Knight.</item>
+                     <item>Lieutenant Coll. <hi>James Nugent,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Monaghan.
+<list>
+                     <item>
+                        <hi>Bryan Mac Mahon.</hi> Esq;</item>
+                     <item>
+                        <hi>Hugh Mac Mahon.</hi> Esq;</item>
+                  </list>
+               </item>
+               <item>Gowran.
+<list>
+                     <item>Coll. <hi>Robert Fielding</hi> instead of <hi>Richard Butler,</hi> Esq;</item>
+                  </list>
+               </item>
+            </list>
+            <p>The Commons chose Sir <hi>Richard Nagle</hi> their Speaker, and Mr. <hi>John Kerney</hi> was Clerk of that House.</p>
+            <list>
+               <pb n="10" facs="tcp:52109:8"/>
+               <head>The several Bills that past both Houses of Parliament in the Session begun at <hi>Dublin,</hi> the 7th of <hi>May 1689.</hi> to which the Late King assented are as follows.</head>
+               <item>1. AN Act of Recognition.</item>
+               <item>2. An Act for Annulling and making void all Patents of Officers for Life or during good Behaviour.</item>
+               <item>3. An Act declaring that the Parliament of <hi>England</hi> cannot bind <hi>Ireland,</hi> and against Writs of Error, and Appeals to be brought for removing Judgments, Decrees and Sentences given in <hi>Ireland</hi> into <hi>England.</hi>
+               </item>
+               <item>4. An Act for Repealing the Acts of Settlement, and Explanation, Reso<g ref="char:EOLhyphen"/>lution of the Doubts and all Grants, Patents and Certificates, pursuant to them, or any of them.</item>
+               <item>5. An Act for punishing of Persons who bring in Counterfeit Coin of Foreign Realms being Currant in this Realm, or Counterfeit the same within this Realm, or Wash, Clip, File or Lighten the same.</item>
+               <item>6. An Act for taking off all incapacities on the Natives of this King<g ref="char:EOLhyphen"/>dom.</item>
+               <item>7. An Act for taking away the Benefits of the Clergy in certain Cases of Felony in this Kingdom for two years.</item>
+               <item>8. An Act to continue two Acts made to prevent delays in Execution: and to prevent Arrests of Judgments and Superseding Executions.</item>
+               <item>9. An Act for Repealing a Statute Intituled an Act for Provision of Ministers in Cities and Corporate Towns. And making the Church of St. <hi>Andrews</hi> in the Suburbs of the City of <hi>Dublin</hi> Presentative for ever.</item>
+               <item>10. An Act of Supply for his Majesty for the support of his Army.</item>
+               <item>11. An Act for Repealing the Act for keeping and Celebrating the 23 of <hi>October</hi> as an Aniversary Thanksgiving in this Kingdom.</item>
+               <pb n="11" facs="tcp:52109:8"/>
+               <item>12. An Act for Liberty of Conscience, and Repealing such Acts or Clauses in any Act of Parliament, which are inconsistent with the same.</item>
+               <item>13. An Act concerning Tythes, and other Ecclesiastical Duties.</item>
+               <item>14. An Act Regulating Tythes, and other Ecclesiastical Duties in the Province of <hi>Ʋlster.</hi>
+               </item>
+               <item>15. An Act concerning Appropriate Tythes, and other Duties pay<g ref="char:EOLhyphen"/>able to Ecclesiastical Dignitaries.</item>
+               <item>16. An Act for Repealing the Act for Real Union and Division of Parishes, and concerning Churches, Free-Schools and Exchanges.</item>
+               <item>17. An Act for Relief and Release of Poor distressed Prisoners for Debts.</item>
+               <item>18. An Act for Repealing an Act Intituled an Act for Confirma<g ref="char:EOLhyphen"/>tion of Letters Patents, granted to his Grace <hi>James</hi> Duke of <hi>Or<g ref="char:EOLhyphen"/>mond.</hi>
+               </item>
+               <item>19. An Act for Encouragement of Strangers and others to inhabit and plant in the Kingdom of <hi>Ireland.</hi>
+               </item>
+               <item>20. An Act for Prevention of Frauds and Perjuries.</item>
+               <item>21. An Act Prohibiting the Importation of <hi>English, Scotch,</hi> or <hi>Welsh</hi> Coals into this Kingdom.</item>
+               <item>22. An Act for Ratifying and Confirming Deeds and Settlements and last Wills and Testaments of Persons out of Possession.</item>
+               <item>23. An Act for the speedy Recovering of Servants Wages.</item>
+               <item>24. An Act for vesting in his Majesty the Goods of Absentees.</item>
+               <item>25. An Act concerning Martial Law.</item>
+               <item>26. An Act for Punishment of Waste committed on Lands restora<g ref="char:EOLhyphen"/>ble to old Proprietors.</item>
+               <item>27. An Act to enable his Majesty to Regulate the Duties of foreign Commodities.</item>
+               <item>28. An Act for the better settling Intestates Estates.</item>
+               <item>29. An Act for Advance and Improvement of Trade, and for the Encou<g ref="char:EOLhyphen"/>ragement and Increase of Shipping and Navigation.</item>
+               <item>30. An Act for the Attainder of divers Rebels, and for the Pre<g ref="char:EOLhyphen"/>serving the Interest of Loyal Subjects.</item>
+               <item>31. An Act for granting and confirming unto the Duke of <hi>Tyrconnel</hi> Lands and Tenements to the value of 15000 <hi>l. per Annum.</hi>
+               </item>
+               <item>32. An Act for securing the Water-Course for the Castle and City of <hi>Dublin.</hi>
+               </item>
+               <pb n="12" facs="tcp:52109:9"/>
+               <item>33 An Act for relieving Dame <hi>Anna Yolanda Sarracourt</hi> alias <hi>Duval</hi> and her Daughter.</item>
+               <item>34. An Act for securing Iron-works and Land thereunto belonging on Sir <hi>Henry Waddington</hi> Knight, at a certain Rates.</item>
+               <item>35. An Act for reversal of the Attainder of <hi>William Ryan</hi> of <hi>Bally Ryan</hi> in the County of <hi>Tipperary</hi> Esq; and for restoring him to his Blood, corrupted by the said Attainder.</item>
+            </list>
+            <p>By several of the foregoing Acts it is most evident, that the design of that pretended Parliament, was to ruin all the Protestants of <hi>Ireland,</hi> I mean the major part, for those Gentlemen that were returned as Mem<g ref="char:EOLhyphen"/>bers for the Colledge of <hi>Dublin,</hi> opposed their Proceedings, and when they found they could do no good, left the House; and the Bishops in the House of Lords also opposed their Proceedings. Most of their Parliament-men were such as were named by Letters from the Earl of <hi>Tyrconnel</hi> or the Titular Bishop of <hi>Clogher</hi> his Secretary to the seve<g ref="char:EOLhyphen"/>ral Corporations. And they were in that haste, that few of the new Charters were past the Seal, when the Elections were made, and some of them are not past to this day.</p>
+            <p>The Protestants were in possession of several Officers in that King<g ref="char:EOLhyphen"/>dom, but pursuant to that Act to make void all Patents of Offices for Life or Behaviour, they are turn'd out and Papists put in.</p>
+            <p>The Address presented by the Purchasors to stop passing the Act of Repeal of the Act Settlement gave a full state, how far the Protestants were concerned therein. There was a Clause in that Act of Repeal, which without doubt, as it would be strained by them, would bring in all Protestants, that were any way concerned or interested in <hi>Ireland,</hi> it follows in these words.</p>
+            <p>It's Enacted that all Mannors, Lands, <hi>&amp;c.</hi> and all Estates and Interests whatsoever in Law or Equity, which on the First of <hi>August</hi> 1688. or at any time since belonged to any in Rebellion in <hi>England, Scotland</hi> or <hi>Ireland,</hi> or who corresponded or kept intelligence, or went contrary to their Allegiance to dwell or stay among the said Rebels or any of them, or was any way Aiding, Assisting or Abetting to them, or any of them, are forfeited and vested from the said First of <hi>August,</hi> freed from all Estates, Tayles, Remainders and Reversions.</p>
+            <p>By their Act of Repeal for the Act of Provision of Ministers, the Ministers in Cities and Corporations are stript, having no other Pro<g ref="char:EOLhyphen"/>vision
+<pb n="13" facs="tcp:52109:9"/> than what was granted them by that Act which they have re<g ref="char:EOLhyphen"/>pealed.</p>
+            <p>By the Act concerning Tythes and other Ecclesiastical Duties, the Roman Catholicks are to pay all their Tythes to their Clergy, and most of the Protestants having come out of the Kingdom, and the rest that remain'd, having lost what Substance they had, the Protestant Clergy could expect nothing: And besides this, the Papist Clergy had got Leases granted to them, of the Livings of such of our Clergy as were come out of that Kingdom.</p>
+            <p>The Act to vest in King <hi>James</hi> the Goods of Absentees, is penal on such as had any of their Goods in their Hands, and did not discover the same, and the Books of some Merchants were seized on, to discover the Effects of their Correspondents, who were Absentees.</p>
+            <p>On pretence of Waste committed by the Protestants on Land in their Possession, several were brought up to <hi>Dublin</hi> in Custody, by Ver<g ref="char:EOLhyphen"/>tue of their Act for Punishment of Waste committed on Land, restora<g ref="char:EOLhyphen"/>ble to old Proprietors, and there compelled to make the old Proprietor what Satisfaction he pleased, and discharge his Contempt, or remain confined.</p>
+            <p>By the Act of Attainder, some thousands were by Name attainted as Rebels, among whom, are the Duke of <hi>Ormond,</hi> Earl of <hi>Cork,</hi> and Earl of <hi>Strafford;</hi> others that came out of that Kingdom, since the Invasi<g ref="char:EOLhyphen"/>on (as they call it) were attainted if they did not return by the first of <hi>September</hi> last, those that came before, had till the first of <hi>Novem<g ref="char:EOLhyphen"/>ber.</hi> And by the Act, all such as had Estates in <hi>Ireland,</hi> together with all Widdows and Orphans that come from thence, were to return for <hi>Ireland</hi> about that time, or they forfeited all. Although some of their pretended Acts were sufficient to have ruin'd most, if not all the Prote<g ref="char:EOLhyphen"/>stants of <hi>Ireland:</hi> Yet it was thought fit to pass so many, to make the Work as certain and sure as they could.</p>
+            <div type="preamble">
+               <pb n="14" facs="tcp:52109:10"/>
+               <head>The Preamble to the Act of Repeal of the Acts of Stttlements and Explanation, <hi>&amp;c.</hi> as it past the House of Commons.</head>
+               <p>WHereas the Ambition and Avarice of the Lords Justices ruling over this your Kingdom, in 1641. did engage them to ga<g ref="char:EOLhyphen"/>ther a malignant Party and Cabal of the then Privy Council contrary to their sworn Faith and natural Allegiance, in a secret Intelli<g ref="char:EOLhyphen"/>gence and traiterous Combination, with the Puritan Sectaries in the Realm of <hi>Great Britain,</hi> against their lawful and undoubted Soveraign, his Peace, Crown and Dignity, the Malice of which made it soon manifest in the Nature and Tendency of their Proceedings, their untimely Pro<g ref="char:EOLhyphen"/>rogations of a Loyal <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nanimous Parliament and thereby making void, and disappointing the Effects of many seasonable Votes, Bills and Ad<g ref="char:EOLhyphen"/>dresses, which passed into Laws, had certainly secured the Peace and Tranquility of this K<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gdom, by binding to his Majesty the Hearts of his Irish Subjects, as well by the Tyes of Affection and Gratitude, as Duty and Allegiance there. The said Lord Justices traiterously dis<g ref="char:EOLhyphen"/>banding His Majesties well assured Catholick Forces, when his Person and Monarchy were exposed to the said Rebell Sectaries, then marching in hostile Arms to dispoi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him of his Power. Dominion and Life, their immediate calling into the place and stead of those His Majesties faith<g ref="char:EOLhyphen"/>ful disbanded Forces, a formidable Body of disciplined Troops allyed and confederated in Cause, Nation and Principles with those Rebel Sectaries, their unwarrantable Entertainment of those Troops in this Kingdom, to the draining of His Majesties Treasury, and Terror of his Catholick Subjects, then openly menaced by them the aforesaid Lords Justices with a Massacre and total Extirpation, their bloody Prosecution of that Menace, in the Slaughter of many innocent Persons, thereby affrighting and compelling others in despair of Protection, from their Government, to unite and take Arms for their necessary Defence, and Preservation of their Lives; their unpardonable Prevarication from His Majesties Orders to them, in retrencing the time by him graciously given to his Subjects so compelled into Arms, of returning to their Du<g ref="char:EOLhyphen"/>ty; and stinting the General Pardon to such only as had no Free-hold
+<pb n="16" facs="tcp:52109:10"/> Estates to make Forfeitures of; their pernicious Arts in way laying, exchanging, and wickedly depriving all Intercourse by Letters, Expres<g ref="char:EOLhyphen"/>ses and other Communication and Privity betwixt Your said Royal Fa<g ref="char:EOLhyphen"/>ther and his much abused People; their insolent and barbarous Applica<g ref="char:EOLhyphen"/>tion of Racks and other Engines of Torture to Sir <hi>John Read,</hi> His then Majesties sworn mental Servant, and that upon thier own conscious Suspicions of his being intrusted with the too just Complaints of the per<g ref="char:EOLhyphen"/>secuted Catholicks aforesaid. Their diabolical Malice and Craft, in es<g ref="char:EOLhyphen"/>saying by Promises and Threats, to draw from him, the said <hi>Read,</hi> in his Torments, a false and impious Accusation of his Master and Sove<g ref="char:EOLhyphen"/>reign as being the Author and Promoter of the then Commotion, so manifestly procured, and by themselves industriously spread.</p>
+               <p>And whereas a late eminent Minister of State, for parallel Causes and Ends, pursuing the Steps of the aforesaid Lords Justices, hath by his Interest and Power, cherished and supported a Fanatical Republican Party, which heretofore opposed, put to flight, and chased out of this Your Kingdom of <hi>Ireland,</hi> the Royal Authority lodged in his Person, and to transfer the calamitous Consequences of his fatal Conduct from himself, upon your trusty Roman Catholick Subjects, to the Breach of publick Faith solemnly given and proclaimed in the Name of our late Sovereign, interposed betwixt them and his late Majesties general Indulgence and Pardon, and wrought their Exclusion from that Indem<g ref="char:EOLhyphen"/>nity in their Estates, which by the said publick Faith is specially pro<g ref="char:EOLhyphen"/>vided for, and since hath been extended to the most bloody and execra<g ref="char:EOLhyphen"/>ble Traitors, few only excepted by Name in all your Realms and Do<g ref="char:EOLhyphen"/>minions. And further, to preclude from all Relief, and even Ac<g ref="char:EOLhyphen"/>cess of Admittance to Justice, Your said Irish Catholick People, and to secure to himself and his Posterity, his vast Share of their Spoils. He the said eminent Minister, did against Your Sacred Brothers Royal Promise and Sanction aforesaid, advise and perswade his late Majesty to give, and accordingly obtained his Royal Assent to two seve<g ref="char:EOLhyphen"/>ral Acts. The one intitulled, <hi>An Act for the better Execution of His Majesties gracious Declaration for the Settlement of this Kingdom of</hi> Ireland, <hi>and Satisfaction of the several Interests of Adventurers, Souldiers, and other His Majesties Subjects there.</hi> Which Act was so past at a Par<g ref="char:EOLhyphen"/>liament held in this Kingdom, in the Fourteenth and Fifteenth Years of his Reign. And the other, An Act intituled, <hi>An Act of Expla<g ref="char:EOLhyphen"/>nation,</hi> &amp;c.</p>
+               <pb n="16" facs="tcp:52109:11"/>
+               <p>Which Act was passed in a Sessions of the said Parliament held in this Kingdom, in the Seventeenth and eighteenth Years of his Reign, most of the Members thereof being such, as forcibly possessed themselves of the Estates of your Catholick Subjects in this Kingdom, and were con<g ref="char:EOLhyphen"/>vened together for the sole special Purpose of creating and granting to themselves and their Heirs, the Estates and Inheritances of this Your Kingdom of <hi>Ireland,</hi> upon a scandalous, false Hypothesis, imputing the Traiterous Design of some desperate, indigent Persons to seize Your Ma<g ref="char:EOLhyphen"/>jesties Castle of <hi>Dublin,</hi> on the Twenty third of <hi>October,</hi> 1641. to an uni<g ref="char:EOLhyphen"/>versal Conspiracy of Your Catholick Subjects, and applying the Estates and Persons thereby presumed to have forfeited to the Use and Benefit of that Regicide Army, which brought that Kingdom from it's due Sub<g ref="char:EOLhyphen"/>jection and Obedience to His Majesty, under the Peak and Tyranny of a bloody Usurper: An Act unnatural, or rather viperously destroy<g ref="char:EOLhyphen"/>ing His late Majesties gracious Declaration, from whence it had Birth, and its Clauses, Restrictions and Uses, inverting the very fundamental Laws, as well of Your Majesties, as all other Christian Governments. An Act limiting and confining the Administration of Justice to a cer<g ref="char:EOLhyphen"/>tain Term or Period of Time, and confirming the Patrimony of Inno<g ref="char:EOLhyphen"/>cents unheard, to the most exquisite Traytors, that now stand Convict on Record; their Assigns and Trustees, even of the then deceased <hi>Oli<g ref="char:EOLhyphen"/>ver Cromwell</hi> himself, for whose Arrears, as General of the Regicide Ar<g ref="char:EOLhyphen"/>my, special Provision is made at the Suit of his Pensioners. Now in re<g ref="char:EOLhyphen"/>gard the Acts above mentioned do in a florid and specious Preamble, contrary to the known Truth in Fact, comprehend all Your Majesties Roman Catholick Subjects of <hi>Ireland,</hi> in the Guilt of those few indigent Persons aforesaid, and on that Supposition alone, by the Clause imme<g ref="char:EOLhyphen"/>diately subsequent to that Preamble, vest all their Estates in his late Majesty, as a Royal Trustee, to the principal Use of those who De<g ref="char:EOLhyphen"/>posed and murthered Your Royal Father, and their lawful Sovereign. And furthermore, to the Ends that the Articles and Conditions granted in the Year 1648. by Authority from Your Majesties Royal Brother, then lodged in the Marquess of <hi>Ormond,</hi> may be duly fulfilled and made good to your Majesties present Irish Catholick Subjects, in all their Parts and Intentions, and that the several Properties and Estates in this Kingdom may be setled in their ancient Foundations, as they were on the Twenty first of <hi>October</hi> 1641. And that all Persons may acquiess and rejoyce under an impartial Distribution of Justice, and sit peaceably down under his own Vine or Patrimony, to the abolishing all distincti<g ref="char:EOLhyphen"/>on
+<pb n="17" facs="tcp:52109:11"/> of Parties, Countries and Religions, and setling a perpetual Union and Concord of Duty, Affection an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Loyalty to Your Majesties Per<g ref="char:EOLhyphen"/>son and Government: In the Hearts of Your Subjects be it enact<g ref="char:EOLhyphen"/>ed, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="address">
+               <head>An Address presented to the Late King <hi>James,</hi> to stop passing of the Act of Re<g ref="char:EOLhyphen"/>peal of the Act of Settlement, <hi>&amp;c.</hi>
+               </head>
+               <p>THis humble Representation made unto Your Majesty, is in the Be<g ref="char:EOLhyphen"/>half of Your Majesties Subjects of all Degrees, Sex and Ages. The Design and Intention of it, is to prevent the Ruine and Desolation which a Bill, now under Consideration, in order to be made a Law, will bring upon them and their Families, in case Your Majesty doth not interpose and protect them, so far as the known Laws of the King<g ref="char:EOLhyphen"/>dom, and Equity, and good Conscience will warrant and require.</p>
+               <p>It is in the Behalf of Purchasers, who for great and valuable Consi<g ref="char:EOLhyphen"/>derations, have acquired Lands and Tenements in this Kingdom, by laying out, not only the Portions and Provisions made by their Parents for them, but also the whole Product of all their own Industry, and the Labour of their Youth; together with what could be saved by a frugal Management, in order to make some certain Provision for Old Age and their Families, in purchasing Lands and Tenements, under the Security of divers Acts of Parliament, publick Declarations from the late King, and all those accompanied with the Possession of twenty five Years.</p>
+               <p>Divine Providence hath appointed us our Dwelling in an Island, and consequently we must Trade, or live in Penury, and at the Mercy of our Neighbours. This necessitates a Transmutation of Possession by Purchase from one Hand to another, of Mortgaging and Pledging Lands for great and considerable Sums of Money, by charging them with Judgments, and indeed gives Name to one of the greatest Securi<g ref="char:EOLhyphen"/>ties made use of in this Kingdom, Statutes, Merchants, and of the Sta<g ref="char:EOLhyphen"/>ple, and very many, especially Widows and Orphans, have then whole Estates and Portions secured by Mortgages, Bonds of the Staple, and Judgments.</p>
+               <pb n="18" facs="tcp:52109:12"/>
+               <p>Where, and when shall a Man purchase in this Kingdom, under what Title, or on what Security shall he lay out his Money, or secure the Portions he designs for his Children, if he may not do it under the Security of divers Acts of Parliament, the solemn and reiterated De<g ref="char:EOLhyphen"/>clarations of his Prince, and a quiet and uncontroverted Possession of twenty Years together. And this is the Case of thousands of Families, who are Purchasers under the Acts of Settlement and Explanation.</p>
+               <p>I do not undertake at present to justifie those Acts in every particular contained in them. But if it be considered that from the twenty third of <hi>October,</hi> 1641. till the twenty ninth of <hi>May,</hi> 1660. the time of His Majesties Restauration, the Kingdom was upon the Matter in a Conti<g ref="char:EOLhyphen"/>nued Storm, the Alterations of Possessions were so universal, and Pro<g ref="char:EOLhyphen"/>priety so blended and mixt by Alotments and Dispositions made by the then usurping Power, it may well be concluded, that they must be somewhat more than Men, that could or can frame a Law to take in every particular Case, though it should have swoln to many Volums and Laws, which are to be of such universal Consequence as this was, are to have regard to the Generality of the Kingdom of People, though possibly some particular Person may have Hardship in his private Con<g ref="char:EOLhyphen"/>cern.</p>
+               <p>But if we may judge of general Laws with the Produce and Ef<g ref="char:EOLhyphen"/>fect of them, and at the same time have a Prospect of the State and Condition of this Kingdom, from 1640. and as far backward as you please, untill the time of His late Majesties happy Restauration, and at the same time take into Consideration, what the Kingdom became in a few Years after the Commission for executing those Acts was at an end, their Buildings and other Improvements, their Trade and Commerce, the vast Heards of Cattle, and Flocks of Sheep, equal to those in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> together with great Sums of Money, brought over by our Fel<g ref="char:EOLhyphen"/>low Subjects of <hi>England,</hi> who came to Purchase and Plant in this King<g ref="char:EOLhyphen"/>dom, the Manufactories set on foot in divers parts, whereby the mean<g ref="char:EOLhyphen"/>er Inhabitants were at once inriched and civilized; it would hardly be believed to be the same Spot of Earth; nay, overflown and moorish Grounds were reduced to the bettering of both Soil and Air. The Purchasers who brought the Kingdom to this flourishing Condition, fly to Your Majesty for Succour, offering their Estates and Fortunes to a<g ref="char:EOLhyphen"/>ny legal Tryal within this Kingdom, being willing and ready to submit the same to any established Judicature; where, if it shall be found, that they enjoy any thing without legal Title, they will sit down and acquiess in the Judgment. But to have their Purchases made void,
+<pb n="19" facs="tcp:52109:12"/> their Lands and Improvements taken from them, their Securities and Assurances for Money lent declared null and void, by a Law made <hi>ex post Facto,,</hi> was never practised in any Kingdom or Country.</p>
+               <p>If their Bill, now designed to be made a Law, had been attempted two, three, four or five Years after the Courts for Execution of these Acts were ended, the Purchasers would not have laid out their Estates in acquiring of Lands, or in Building and Improving on them. Thou<g ref="char:EOLhyphen"/>sands who sold their small Estates and Free-holds in <hi>England,</hi> and brought the Price of them to Purchase and Plant here, would have stay'd at Home, and Your Majesties Revenue, with that of the Nobili<g ref="char:EOLhyphen"/>ty and Gentry had never come to the height it did.</p>
+               <p>If Your Majesty please to consider upon what Grounds and Assuran<g ref="char:EOLhyphen"/>ces the Purchasers of Lands and Tenements in this Kingdom proceed<g ref="char:EOLhyphen"/>ed, you will soon conclude never any proceeded upon surer Grounds.</p>
+               <p>The Acts of the Seventeenth and Eighteenth of King <hi>Charles</hi> the First Your Father of Blessed Memory, takes notice, that there was a Rebelli<g ref="char:EOLhyphen"/>on begun in this Kingdom, the Twenty third of <hi>October,</hi> 1641. (And so doth a Bill once read in the House of Lords) whoever looks into that Royal Martyrs Discourses upon that Occasion, will see with what an Abhorrency he laments it, and that he had thoughts once to come over in Person to suppress it.</p>
+               <p>These Acts promise Satisfaction out of forfeited Lands, to such as would advance Money for reduceing those Disturbers of the Publick Peace unto their Duty.</p>
+               <p>The next Invitation was His late Majesty, Your Brothers Letter from <hi>Breda,</hi> some few Weeks before his Restoration, which hapne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Twenty ninth of <hi>May,</hi> 1660. and within six Months after, come forth His Majesties Gracious Declaration for the Settlement of this Kingdom.</p>
+               <p>This, may it please Your Majesty, is the Basis and Foundation of that Settlement, and was some Years after enacted and made a Law, by two several Acts of Parliament.</p>
+               <p>It is true, that the usurping Power in the Year 1653. having pre<g ref="char:EOLhyphen"/>vailed here, did dispose and set our the Estates of Catholicks unto Ad<g ref="char:EOLhyphen"/>venturers and Souldiers, and in a year or two after, transplanted all Ca<g ref="char:EOLhyphen"/>tholick Free-holders, for no other reason but their being so, into <hi>Con<g ref="char:EOLhyphen"/>naught,</hi> where Lands were set out unto them under divers Qualificati<g ref="char:EOLhyphen"/>ons, which they and their Heirs, on those deriving under them, as Purchasers, enjoyed, and still do enjoy, under the Security of the before men<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion Acts of Parliament and Declaration.</p>
+               <pb n="20" facs="tcp:52109:13"/>
+               <p>His Majesties gracious Declaration of the Thirtieth of <hi>November</hi> 1660. which I call the Foundation of the Settlement, was, before it was concluded on, under the Consideration of that Prince, and the Lords of his Council of <hi>England,</hi> where all Persons concerned for the Proprietors, as well Old as New, were heard, whoever reads it, will find many Difficulties which He and his Council met with from the dif<g ref="char:EOLhyphen"/>ferent and several Pretenders, what Consideration was had, and Care taken to reconcile the jarring Interests, and to accomodate and settle as well as was possible, the Mass or Body of his Subjects here.</p>
+               <p>It was some years after, before the Act for the better Execution of his Majesties gracious Declaration became a Law. It was near two years on the Anvil: It was not a Law that passed in a few Days, or <hi>Sub silentio:</hi> It was first according to the then Course of passing Laws, here framed by the Chief Governour, and Council of this Kingdom, by the Advice, and with the Assistance of all the Judges, and of His Ma<g ref="char:EOLhyphen"/>jesties Council, learned in the Laws, and then transmitted into <hi>England,</hi> to be further considered of by His Majesty, and Lords of His Coun<g ref="char:EOLhyphen"/>cil there, where the Council at Law, and Agents of all Pretenders to the Propriety of Land in this Kingdom were heard. And that Act, commonly call'd the Act of Settlement, approved of and re-transmitted under the Seal of <hi>England,</hi> to receive the Royal Assent, which it did, after having passed both Houses of Parliament.</p>
+               <p>The innocent Proprietors being restored pursuant to this Act, and some Difficulties appearing, as to the further Execution of it, another passed, commonly called, <hi>The Act of Explanation,</hi> which went the same Course, and under the same Scrutiny.</p>
+               <p>It is confessed, that though they are two Acts, it was the same Par<g ref="char:EOLhyphen"/>liament who were chosen according to the ancient Course of choosing Parliaments.</p>
+               <p>But if any Miscarriages were in bringing that Parliament together, or in procuring the aforesaid Acts of Parliament, to pass which, I can in no wise admit, and the less, for that Your Majesties Revenue was granted and setled by that Parliament, and many good and wholsome Laws therein enacted. Yet its manifest, that nothing of that kind ought to affect the plain and honest Purchaser, who for great and va<g ref="char:EOLhyphen"/>luable Consideration, acquired Lands under the Security aforesaid, and expended the Remainder of his Means in Building, Improving, and Planting on them, and that for the following Reasons.</p>
+               <p>
+                  <hi>Imprimis.</hi> The Purchaser advising with his Council how to lay out, secure his Money, that it may not lye dead, not only to his, but
+<pb n="21" facs="tcp:52109:13"/> the publick Detriment, tells him, that he is offered a Purchase of Lands in Fee, or desired by his Neighbour to accommodate him with Mo<g ref="char:EOLhyphen"/>ney, upon the Security of Mortgage, Judgment, or Statute Staple, and upon Inquiry into the Title, he finds a good and secure Estate, as firm in Law, as two several Acts of Parliament of force in this King<g ref="char:EOLhyphen"/>dom, can make it: And in many Cases, Letters Pattents upon a Com<g ref="char:EOLhyphen"/>mission of Grace, for remedying defective Titles, he finds Possession for many years hath gone along with this Title, and several Descents cast, and possibly that the Lands have been purchased, and passed through the Hands of divers Purchasers; he resorts to the Records, where he meets with Fines and common Recoveries, the great Assur<g ref="char:EOLhyphen"/>ance known to the Laws of <hi>England,</hi> under which (by the Blessing of God) we live; and tells him, that there is no Scruple nor Difficulty of Purchasing under this Title, since he hath the Security of two Acts of Parliament, Certificate Letters Pattents, Fines, and Recoveries, and that no Law of force in the Kingdom can stir, much less shake this Title.</p>
+               <p>How is it possible to imagine, that the Legislative Power should be made use of to avoid this Mans Estate, who perhaps was never in this Kingdom, untill after these Acts were enacted, and become Laws.</p>
+               <p>It will be the like Case with all Persons, who on the Marriage of their Children, and considerable Marriage Portions paid and received, have procured Settlements for Joyntures, Portions and Remainders for their Children and Grand-Children: And all these are to be laid aside without any Consideration of Law or Equity in the Case of Purchasers, or any Misdemeanor or Offence committed by them, whereby vast Numbers of Your Majesties Subjects, the present Proprietors and their Lesees, and in very many Cases, Widows and Orphans, Marchants and Traders, will be at one stroak outed and removed from the Pos<g ref="char:EOLhyphen"/>session of their Lands and Improvements, which in many places are more in value than the Townships whereon they are made.</p>
+               <p>This, with Submission, without some Fraud, Deceit, or Default of the Purchaser, never was, and its hoped never will be done by any People or Nation professing Christianity. Nor is it for the Honour, Wellfare, or Advantage of the King or Kingdom, to have it so done. What will Strangers, and our Fellow Subjects of <hi>England</hi> and <hi>Scotland</hi> say, we sold our Estates in <hi>England,</hi> transported us and our Famalies into <hi>Ireland,</hi> to Purchase, Improve, and Plant there? We acquired Lands under as secure Titles as Acts of Parliament, the greatest known Security could make them; our Conveyences, both by Deed and Mat<g ref="char:EOLhyphen"/>ters
+<pb n="22" facs="tcp:52109:14"/> of Record, are allowed good, firm, and unquestionable by any Law in force at the time of the Purchase, we have had the Possession ten, twelve, or fifteen years, and are grown old, upon them we have clear<g ref="char:EOLhyphen"/>ly withdrawn our Effects from <hi>England,</hi> and setled here, not doubting, but our Posterity may be so likewise. We have purchased Annuities and Rent-charges out of Land under the same Securities, and now the old Proprietors, though many of them had Satisfaction in <hi>Connaught,</hi> would fain have a new Law to dispossess us of our Estates and Improve<g ref="char:EOLhyphen"/>ments made as aforesaid.</p>
+               <p>It will not be believed that the Chief of those who drive on this De<g ref="char:EOLhyphen"/>sign, should in Parliament, and elsewhere (which ought to consist of the gravest, wisest, and wealthist. Free-holders of the Kingdom, for such the Law presumes them) make a noise with that good and whol<g ref="char:EOLhyphen"/>some Advise of <hi>Caveat</hi> Emptor, in this Case, or that can think that <hi>Caveat</hi> is proper here.</p>
+               <p>The Purchaser ought to be wary of any Flaw in the Title at the time of the Purchase made, and Purchasers at his Peril, if any such there be, but who is that Purchaser that must be ware of a Law to be made twen<g ref="char:EOLhyphen"/>ty, thirty, or forty years after his Purchase, or to destroy his Security for Money lent, or Settlement on Marriage. This is not a Defect in the Title; but under favour, is a President which no human Foresight can prevent, and if once introduced, no Purchaser could ever be safe, the worst of Lotteries affording a securer way of Dealing than <hi>Ireland</hi> would.</p>
+               <p>Can it be for Your Majesties honour or advantage to have Thousands of Families ruined by such a Proceeding as this is, what will become of our Credit, and consequently of our Trade abroad, where will the Re<g ref="char:EOLhyphen"/>putation and Publick Faith and security of the Kingdom be, when foreign Merchants shall know from their Correspondents here, that they cannot comply with their engagements to them: their Estates, Houses and Improvements both in Country and City which they had acquired for great and valuable Considerations, and within the Securities of the Laws being taken from them by a Law made yesterday, in case this Bill should pass, so that in effect we are not only contriving to break and ruine our Traders and Merchants at home, but even those in foreign Parts, which will infallibly destroy Your Majesties Revenue and s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k that of every Subject.</p>
+               <p>Surely these Particulars, and the Consequences of them, are worth more than two or three days Consideration, which is as much as
+<pb n="23" facs="tcp:52109:14"/> this Bill could have, since the Parliament was not opened until the 7th of this Month.</p>
+               <p>The very Report of what is designed to be done by this Bill hat already from the most improved and improving spot of Earth in <hi>Europe</hi> from stately Heards and Flocks from plenty of Money at seven and eight <hi>per Cent.</hi> whereby Trade and Industry were encouraged, and all upon the security of those Acts of Parliaments, from great and con<g ref="char:EOLhyphen"/>venient Buildings newly Erected in Cities and other Corporations, to that degree, that even the City of <hi>Dublin,</hi> is since the passing of these Acts and the security and quiet promised from them enlarged to double what it was. That the Shipping in divers Parts were five or six times more, than ever was known before to the vast increase of your Majesties Revenue, reduced to the saddest and most disconsolate condition of any Kingdom or Country in <hi>Europe,</hi> infinite numbers of the Inhabitants having Transported themselves and their Families with what remained of their Estates into other Kingdoms: That very many of the Build<g ref="char:EOLhyphen"/>ings both new and old in this City, and in the very Heart and Tra<g ref="char:EOLhyphen"/>ding part of it are uninhabited and waste. It's grievous to see as you pass through the City, the Shops shut up, and in the Country the Herds and Flocks are utterly destroyd, so that of necessity the Tenant must break, throw up his Lease, leave the Key under the Door and the Land become waste; and from hence will necessary follow, that the Farm-houses and Improvements must go to decay, and Beef, Tallow, Hides, Wool and Butter, from whence arise the wealthy of the Country will fail us.</p>
+               <p>What is to become of the frequent Declarations made by the Earl of <hi>Clarendon,</hi> and the Earl now Duke of <hi>Tyrconnel</hi> of Your Ma<g ref="char:EOLhyphen"/>jesties fixed Resolutions never to lay aside the Acts of Settlement and Explanation, why did the Judges in their several Circuits declare in all places where they sate unto the Countries there Assembled, that Your Majesty was resolved to preserve the Acts of Settlement, and that they were appointed by the then Chief Governor, here to declare the same unto them, from whence they took confidence to proceed in their Purcha<g ref="char:EOLhyphen"/>ses and Improvements, and with submission be it spoken if this Bill pass are deluded.</p>
+               <p>Shall Patents on the Commission of Grace signifie nothing, the Great Seal of <hi>England</hi> tell them they may proceed upon the Publick Faith, and here again they may become Purchasers, paying considerable Fines unto the King, to whom Rents were reserved, where none were due before, and many Places the Rent encreased as in Case of Fairs and Markets, granted together with the Lands on them, Patents, liberty of free
+<pb n="24" facs="tcp:52109:15"/> Warren, and to Enclose and Impale for Park; surely some considera<g ref="char:EOLhyphen"/>tion ought to be had of those whose Money was paid on this Ac<g ref="char:EOLhyphen"/>count.</p>
+               <p>It would be further considered that Your Majesty before your Access to the Crown, had passed several Lands and Tenements in this King<g ref="char:EOLhyphen"/>dom, in Certificate and Patent pursuant to those Acts of Settlement, and that you made Leases of them on which many and great Improvements have been made. It is true likewise that Your Majesty sold and exchanged some small Proportions of the same Land and received in Money twelve Years Purchase for some of them, which Your Majesty conveyed by Fines and other. Assurances in Law; and though Your Majesty may if it seem meet unto you, part with all that Estate. Yet its humbly conceived it ought to be with reservation to the Lessees, and those few Purchasers, as it was done by <hi>Mary</hi> Qeeen of <hi>England:</hi> who though zealous to the high<g ref="char:EOLhyphen"/>est degree in the Religion she professed, and that she restored such Part of Lands belonging to Monasteries as remain'd in her hand indis<g ref="char:EOLhyphen"/>posed; did nevertheless permit the Grantees and Purchasers peaceably to retain such part of them, as they were possessed of by grant or pur<g ref="char:EOLhyphen"/>chase; and which for ought appearing, is enjoyed by them, and those deriving under them unto this day, though she came to the Crown within few years after passing the Act for dissolving Monastries, for if no considerations be had of them, Your Majesty gives away the terms of Years and improvements from your Lessees, and the Land from him to whom Your Majesty sold it, without restoring the Pur<g ref="char:EOLhyphen"/>chase Money, than which no Case can be harder, and without Your Royal Assent, neither of these will be done.</p>
+               <p>For the objections commonly made against the Acts of Settlement and Explanation, which are usually, that many Innocents were never heard; and that there was not time sufficient for hearing of them: but how this should affect those who Purchased after the Acts were passed, and Cer<g ref="char:EOLhyphen"/>tificates and Letters Patents passed, on them is not demonstrable from any Rule of Law or Equity. The Person designing to purchase, en<g ref="char:EOLhyphen"/>quires whether the Title of the Land or Tenements, to be sold, be good in Law or Equity, and being assured in that he forbears further enquiry, being assured that never any Purchaser in Possession, having Law or E<g ref="char:EOLhyphen"/>quity on his side was dispossessed by any Person whatsoever, upon grounds of Equity and the Purchaser here, hath the Law with him by the Acts of Settlement, and the Equity by the payment of his Money.</p>
+               <p>It is to be wished that if Widows, Orphans or any other Persons have fallen under any hardship by the general Settlement of the King<g ref="char:EOLhyphen"/>dom;
+<pb n="25" facs="tcp:52109:15"/> that some way be devised to make them reparation, but the way prescribed by this Bill is to rob the Innocent Purchasers, Creditors and Orphans of their Estates, to do it contrary to the Publick Faith, Laws of the Land, and to the Precept of Holy Writ, which forbids doing evil, that good may come thereof.</p>
+               <p>It is manifest from what hath been said that if this Bill proceed as it is now contrived, that all the Protestants of the Kingdom are undoubtedly, and without reserve, ruined; since the Rappererees, that is the Armed Multitude, have taken away all their Moveable Estates, and this design is to take away all the Lands and Tenements purchased by them.</p>
+               <p>The Thriving Catholicks, who were Purchasers (as indeed most of the Province of <hi>Connaght</hi> are) are likewise to be turned out of their Estates and Possessions, and their own, and the Improvements of those who held under them utterly lost.</p>
+               <p>As to the Politick part, which those great Statesmen, who drive on this Bill, make mention of, that will be likewise worthy of Considera<g ref="char:EOLhyphen"/>tion. It is said this will unite Your Majesties Subjects in this Kingdom, that is too gross to pass, since the first mention thereof, hath it not made a division and breach betwixt them, nay, where there was none before, and doth it not grow wider: It was never heard, that Accomo<g ref="char:EOLhyphen"/>dations where all in contest was given to one of the Parties, made an Union and Friendship: It is so far the contrary, that where nothing is Awarded by one of the Parties, it makes the whole Award void and of none effect. And admitting that the old Proprietors had right; it is not enough, except he have it against the Purchaser, and if the design be what is pretended, to restore this Kingdom to the Peace and Plenty, which is flourished in some time since, to unite Your Majesties Subjects. This can never be effected excepted all Pretenders recede, in some de<g ref="char:EOLhyphen"/>gree from the full of their pretentions for the Accomendation of the whole, and the publick quiet and safety: Would it not be an unreason<g ref="char:EOLhyphen"/>able, thing in a Cargoe, where divers Merchants are concern'd, and have Goods and Merchandize in a Storm, to throw out by consent, the Goods of any one Merchant, though in the bottom of the Holt, and hardest to be come at, for the safety of all concerned, without Satisfaction given him by a Contribution from those who had the Advantage of it. Or if it could be done, or that they had time, were it not much more just, that the loss should be equally divided amongst them, by throwing out a just proportion from all concerned, than to single out
+<pb n="26" facs="tcp:52109:16"/> one part of the People by their Ruin to advance the others. This is not in my Judgment, the readiest way to Unite them. Suffer me to make one step more, and <hi>Query</hi> whether the Catholic Purchasers will joyn heartily with those that enter upon them. Farewell Trade and Com<g ref="char:EOLhyphen"/>merce, where Acts of Parliament shall be made to destroy Securities which were good when made. Farewell all Improvements in <hi>Ireland,</hi> where no Man shall ever know what Estate he hath, if the Founda<g ref="char:EOLhyphen"/>tion of the general Settlement should now be overturned.</p>
+               <p>I cannot foresee what the Consequences may be of having it pub<g ref="char:EOLhyphen"/>lished, and made known in <hi>England</hi> and <hi>Scotland</hi> and elsewhere, where the Protestant Religion is professed, that such a Proposal as this, in Relation to your Protestant Subjects, hath been prepared for Your Majesties Consideration, in order to be passed into a Law, and this when they were secure by the Laws of the Land, not so much as common Equity, to question the Titles by which they held: That nevertheless. Use should be made of the Legislative Power, to enact a new Law after so many Assurances given them to the contrary, and after so many Years quiet Possession, to turn them out of their Estates toge<g ref="char:EOLhyphen"/>ther.</p>
+               <p>It is much to be feared, that those who advised first this Method of Proceeding, have considered their own particular Advantage, and that of their Friends and Relations, without the least thought of Your Ma<g ref="char:EOLhyphen"/>jesties Service; for surely this can never be thought so, nor the way to settle this Kingdom. Nor can it be imagined, but that Men thus dispoyled, will as often as Parliaments shall be called, make application for Redress and Repeal, as in the Case of the <hi>Spencers,</hi> to Repeal a Repeal, and they and their Posterity will be always Solliciting your Successors to give them Relief, in a Case of so great moment and ge<g ref="char:EOLhyphen"/>neral Concern as this is.</p>
+               <p>As for the Reprisals mentioned to be made them out of the Estates of the new forfeiting Persons (which must be conceived to give any colour to this manner of Proceeding) ought to be equal to the Estate which the Proprietor shall be ousted off, that will be very uncertain; for it must be known who the Forfeiting Persons are, and what their Lands amounts to. Since it may be probably concluded, that there are many of Your Majesties Subjects now in <hi>England,</hi> would ere this, have attended here, If they had not been stopped from coming by Duress or Imbargo, and many other legal and justifiable excuses, too long, for this present Paper. And withal, that where any of them are
+<pb n="27" facs="tcp:52109:16"/> seized of any New Estates, so much must be restored to the Old Pro<g ref="char:EOLhyphen"/>prietor, and what is old, subject to their Settlements and other Incum<g ref="char:EOLhyphen"/>brances.</p>
+               <p>After all this, it is in the power of Your Majesty to prevent the Ruin of so many of Your Subjects as have been Purchasers and Im<g ref="char:EOLhyphen"/>provers in this Kingdom, by prescribing more moderate ways, than by depriving them of the whole, of what they have Legally and Industrious<g ref="char:EOLhyphen"/>ly acquired, and that Committees of both Houses may hear and enquire whether any Medium may be found out betwixt the Extreams for the accomodating, as near as may be the Purchaser and the old Proprietor, so that if there be Cause of Complaint it may not arise from a Total disap<g ref="char:EOLhyphen"/>pointment of either Party. This is a little of what may be said on this Occasion, but the haste of those who drive on this Bill, will allow no furthertime at present to speak to all the several Interests concerned in the Acts of Settlement and Explanation.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
